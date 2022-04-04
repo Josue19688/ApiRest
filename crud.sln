@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{42C57E66-D08C-4E65-9E74-47F81998692E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{4FAAFEFB-DB4E-4653-8AA7-5E48BDDD9266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{5959BD64-CAF7-4E43-A01B-079B0C6E763B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C57E66-D08C-4E65-9E74-47F81998692E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C57E66-D08C-4E65-9E74-47F81998692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C57E66-D08C-4E65-9E74-47F81998692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C57E66-D08C-4E65-9E74-47F81998692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAAFEFB-DB4E-4653-8AA7-5E48BDDD9266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAAFEFB-DB4E-4653-8AA7-5E48BDDD9266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAAFEFB-DB4E-4653-8AA7-5E48BDDD9266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAAFEFB-DB4E-4653-8AA7-5E48BDDD9266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5959BD64-CAF7-4E43-A01B-079B0C6E763B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5959BD64-CAF7-4E43-A01B-079B0C6E763B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5959BD64-CAF7-4E43-A01B-079B0C6E763B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5959BD64-CAF7-4E43-A01B-079B0C6E763B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C248D631-1B5F-4071-ABAE-32151F048F34}
+	EndGlobalSection
+EndGlobal
